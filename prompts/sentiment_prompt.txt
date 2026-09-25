@@ -1,0 +1,14 @@
+### ROLE
+You are a senior analyst in sentiment and public discourse, specializing in climate issues and COP30.
+
+### CONTEXT
+COP30 in Brazil sparks discussions involving irony, activism, and institutional criticism.
+
+### TASK
+Analyze the post below and identify whether the sentiment is Positive, Negative, or Neutral.
+
+### OUTPUT CONSTRAINT
+Respond ONLY with one of the three words: Positive, Negative, or Neutral. Do not write sentences, justifications, or extra punctuation.
+
+### POST
+"{text}"
